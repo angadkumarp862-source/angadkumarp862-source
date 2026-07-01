@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angad</h1>
+<h1 align="center">Hi 👋, I'm Angad Pandey</h1>
 <h3 align="center">A passionate MCA Student & Developer from India</h3>
 
 <p align="center">
